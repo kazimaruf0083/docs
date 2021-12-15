@@ -21,7 +21,7 @@ redirect_from:
   - /actions/automating-your-workflow-with-github-actions/configuring-workflows
   - /github/automating-your-workflow-with-github-actions/getting-started-with-github-actions
   - /actions/automating-your-workflow-with-github-actions/getting-started-with-github-actions
-  - /actions/configuring-and-managing-workflows
+  - /actions/configuring-and-managing-hhjworkflows
   - /articles/getting-started-with-github-actions
 versions:
   fpt: '*'
